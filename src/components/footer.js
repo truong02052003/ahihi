@@ -39,8 +39,8 @@ export default function Footer() {
         </ul>
       </nav>
       <div className="contact">
-        <p><i className="bi bi-house-fill"></i> 590 Cach Mang Thang Tam, Ward 11, District 3, Ho Chi Minh City</p>
-        <p><i className="bi bi-envelope-fill"></i> Group2@gmail.com</p>
+        <p><i className="bi bi-house-fill"></i> Tòa Nhà HTC, 250 Hoàng Quốc Việt, Cổ Nhuế, Cầu Giấy, Hà Nội, VietNam</p>
+        <p><i className="bi bi-envelope-fill"></i> Sugardaddy@gmail.com</p>
         <p><i className="bi bi-telephone-fill"></i> 1800 1779</p>
       </div>
 

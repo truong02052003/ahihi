@@ -60,11 +60,11 @@ export default function ContactDetail() {
             </div>
 
             {/* Google Maps */}
-            <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.3193500366883!2d106.66408561394566!3d10.786834792314448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ed2392c44df%3A0xd2ecb62e0d050fe9!2sFPT-Aptech%20Computer%20Education%20HCM!5e0!3m2!1sen!2s!4v1637025595026!5m2!1sen!2s" 
-                width="1200" 
-                height="450" 
-                allowFullScreen 
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.3193500366883!2d106.66408561394566!3d10.786834792314448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ed2392c44df%3A0xd2ecb62e0d050fe9!2sFPT-Aptech%20Computer%20Education%20HCM!5e0!3m2!1sen!2s!4v1637025595026!5m2!1sen!2s"
+                width="1200"
+                height="450"
+                allowFullScreen
                 title="Google Maps"
             ></iframe>
             {/* Google Maps end */}
